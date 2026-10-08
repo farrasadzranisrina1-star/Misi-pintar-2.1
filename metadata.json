@@ -1,0 +1,8 @@
+{
+  "name": "Remix Misi Pintar - Game Edukasi 2D Siswa SD",
+  "description": "Aplikasi game edukasi 2D interaktif Matematika BAB 2: Menentukan KPK dan FPB dengan menggunakan faktor bilangan prima untuk siswa Sekolah Dasar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
